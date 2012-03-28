@@ -1,9 +1,9 @@
 #! /usr/bin/python
 
-import os
+import os,sys,time
 import re
-import sys
 from xml.etree.ElementTree import ElementTree
+
 
 prog = 'java -jar simian-2.3.33.jar -formatter=xml "' + sys.argv[1] + '**/*.java"' +  ' | grep "^[^A-Z]" > out.xml'
 
@@ -12,7 +12,9 @@ prog = 'java -jar simian-2.3.33.jar -formatter=xml "' + sys.argv[1] + '**/*.java
 
 print prog
 
+start = time.time()
 os.system(prog)
+finish = time.time()
 
 tree = ElementTree()
 tree.parse("out.xml")
@@ -33,8 +35,9 @@ for element in tree_iter:
 		else:
 			out.write( '\n' ) 		
 
+out.write(str(finish - start))
 out.close()
-
+os.remove("out.xml")
 
 
 

@@ -2,23 +2,14 @@
 
 import os
 import re
+import sys
+import time
 
-f = open ( "folders.txt", 'r' )
-rootDirectories = f.readlines()
-f.close()
+prog = "clonedigger " + sys.argv[1] 
 
-dList = []
-for st in rootDirectories:
-	strNoEsc = st.rstrip()
-	if (strNoEsc != ''):
-		dList.append( strNoEsc )
-
-prog = "clonedigger"
-for st in dList:
-	prog += " " + st
-
-#os.system(prog)
-
+start = time.time()
+os.system(prog)
+finish = time.time()
 
 
 def get_file_pair(st):
@@ -48,7 +39,7 @@ def get_file_pair(st):
 regexp = re.compile( ".*Clone #.*" )
 
 f = open ( "output.html", "r" )
-out = open ( "output.txt", "w" )
+out = open ( sys.argv[2], "w" )
 
 
 matched = []
@@ -61,5 +52,8 @@ while True:
 			out.write(files[i][0] + ' ' + str(files[i][1]) + ' ' + str(files[i][2]) + ' ')
 		out.write('\n')		
 	
+out.write(str(finish - start))
+out.close()
 f.close()
+os.remove("output.html")
 
