@@ -7,9 +7,6 @@ from xml.etree.ElementTree import ElementTree
 
 prog = 'java -jar simian-2.3.33.jar -formatter=xml "' + sys.argv[1] + '**/*.java"' +  ' | grep "^[^A-Z]" > out.xml'
 
-#d = os.getcwd()
-#c = os.chdir(sys.argv[1])
-
 print prog
 
 os.system(prog)
