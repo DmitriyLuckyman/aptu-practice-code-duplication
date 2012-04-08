@@ -1,0 +1,12 @@
+<idea-plugin version="2">
+  <name>Simian</name>
+  <description>Inspect duplicates</description>
+  <version>1.0</version>
+
+  <idea-version since-build="117"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <codeInspection.InspectionExtension id="simianInspection"
+                                        implementation="ru.spbau.simian.SimianInspectionExtensionsFactory"/>
+  </extensions>
+</idea-plugin>
