@@ -132,33 +132,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtractMethodProcessor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/extractMethod/ExtractMethodProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="536" column="68" selection-start="22753" selection-end="22766" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#21852#21864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DuplicatesFinder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/DuplicatesFinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="17" selection-start="5818" selection-end="5818" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#4020#4027#0" expanded="true" />
-                <element signature="e#6264#6276#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SimianInspectionExtensionsFactory.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="64" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+            <state line="31" column="43" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,34 +143,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InspectionExtensionsFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/lang/InspectionExtensionsFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="51" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#1754#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaInspectionExtensionsFactory.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="JavaInspectionExtensionsFactory.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/ex/JavaInspectionExtensionsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="24" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#2433#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="35" column="80" selection-start="1414" selection-end="1441" vertical-scroll-proportion="0.2016129">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RefManagerExtension.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RefManagerExtension.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/lang/RefManagerExtension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="14" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.13105413">
+            <state line="33" column="14" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -585,9 +547,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -760,15 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="64" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/lang/InspectionExtensionsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="51" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
@@ -824,19 +777,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/ex/JavaInspectionExtensionsFactory.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/lang/RefManagerExtension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="24" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
+        <state line="33" column="14" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="43" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#2433#0" expanded="false" />
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/lang/RefManagerExtension.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/ex/JavaInspectionExtensionsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="14" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.13105413">
+        <state line="35" column="80" selection-start="1414" selection-end="1441" vertical-scroll-proportion="0.2016129">
           <folding />
         </state>
       </provider>
