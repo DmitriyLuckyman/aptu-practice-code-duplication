@@ -1,7 +1,6 @@
 package ru.spbau.simian;
 
 import com.intellij.codeInspection.HTMLComposer;
-import com.intellij.codeInspection.ex.GlobalJavaInspectionContextImpl;
 import com.intellij.codeInspection.lang.GlobalInspectionContextExtension;
 import com.intellij.codeInspection.lang.HTMLComposerExtension;
 import com.intellij.codeInspection.lang.InspectionExtensionsFactory;
@@ -17,7 +16,7 @@ import org.jetbrains.annotations.Nullable;
 public class SimianInspectionExtensionsFactory extends InspectionExtensionsFactory {
     @Override
     public GlobalInspectionContextExtension createGlobalInspectionContextExtension() {
-        return new SimianGlobalInspectionContextImpl();
+        return new SimianGlobalInspectionContext();
     }
 
     @Override
@@ -43,6 +42,6 @@ public class SimianInspectionExtensionsFactory extends InspectionExtensionsFacto
 
     @Override
     public boolean isProjectConfiguredToRunInspections(Project project, boolean online) {
-        return GlobalJavaInspectionContextImpl.isInspectionsEnabled(online, project);
+        return true;
     }
 }

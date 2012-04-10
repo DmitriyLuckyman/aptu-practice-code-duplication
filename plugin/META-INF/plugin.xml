@@ -12,5 +12,12 @@
         <projectService serviceInterface="ru.spbau.simian.settings.SimianSettings"
                         serviceImplementation="ru.spbau.simian.settings.SimianSettings"/>
         <projectConfigurable instance="ru.spbau.simian.settings.SimianSettingsManager"/>
+
+        <globalInspection shortName="SimianGlobalInspectionTool"
+                          bundle="ru.spbau.simian.Simian"
+                          key="simian.inspection.duplicate.display.name"
+                          groupName="Simian"
+                          enabledByDefault="true" level="WARNING"
+                          implementationClass="ru.spbau.simian.SimianGlobalInspectionTool"/>
     </extensions>
 </idea-plugin>
