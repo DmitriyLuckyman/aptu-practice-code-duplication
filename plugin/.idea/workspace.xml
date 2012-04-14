@@ -18,6 +18,99 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/extractMethod/ExtractMethodHandler.java" line="124" class="com.intellij.refactoring.extractMethod.ExtractMethodHandler" package="com.intellij.refactoring.extractMethod">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/extractMethod/ExtractMethodHandler.java" line="135" class="com.intellij.refactoring.extractMethod.ExtractMethodHandler" package="com.intellij.refactoring.extractMethod">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/extractMethod/ExtractMethodHandler.java" line="148" class="com.intellij.refactoring.extractMethod.ExtractMethodHandler$4$1" package="com.intellij.refactoring.extractMethod">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/DuplicatesFinder.java" line="176" class="com.intellij.refactoring.util.duplicates.DuplicatesFinder" package="com.intellij.refactoring.util.duplicates">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/GlobalInspectionContextImpl.java" line="431" class="com.intellij.codeInspection.ex.GlobalInspectionContextImpl$5$1" package="com.intellij.codeInspection.ex">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/Browser.java" line="306" class="com.intellij.codeInspection.ui.Browser$3" package="com.intellij.codeInspection.ui">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionTool.java" line="88" class="ru.spbau.simian.SimianGlobalInspectionTool" package="ru.spbau.simian">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -58,22 +151,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <file leaf-file-name="SimianGlobalInspectionTool.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="43" selection-start="900" selection-end="900" vertical-scroll-proportion="0.0">
+            <state line="86" column="38" selection-start="3837" selection-end="3837" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimianGlobalInspectionTool.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionTool.java">
+      <file leaf-file-name="SimianInspectionExtensionsFactory.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.19386332">
-              <folding>
-                <element signature="e#2375#2394#0" expanded="true" />
-              </folding>
+            <state line="33" column="80" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.7796258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianGlobalInspectionTool.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inspectionDescriptions/SimianGlobalInspectionTool.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianSettingsPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/ui/SimianSettingsPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="13" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianSettings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianSettingsManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettingsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianBundle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianBundle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimianGlobalInspectionContext.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="118" column="97" selection-start="4020" selection-end="4020" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Browser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/Browser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="306" column="0" selection-start="11330" selection-end="11330" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemDescriptorImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/ProblemDescriptorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="139" column="0" selection-start="6520" selection-end="6520" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,26 +255,25 @@
         <option value="$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/FileCheckingInspection.java" />
         <option value="$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/ex/JavaInspectionExtensionsFactory.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContextExtension.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContextImpl.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianBundle.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/ui/SimianSettingsPanel.form" />
+        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettingsManager.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/ui/SimianSettingsPanel.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettings.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettingsManager.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContextImpl.java" />
-        <option value="$USER_HOME$/sdk/ideaIC-118.149/plugins/properties/src/META-INF/plugin.xml" />
-        <option value="$PROJECT_DIR$/src/inspectionDescriptions/SimianGlobalInspectionTool.html" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContext.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java" />
+        <option value="$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/ex/HTMLJavaHTMLComposerImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/simian/Simian.properties" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionTool.java" />
-        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="22" />
-    <option name="width" value="1357" />
-    <option name="height" value="878" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -205,14 +367,6 @@
               <option name="myItemId" value="duplication-plugin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; IDEA IC-118.149 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -255,18 +409,12 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="duplication-plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugin" />
+              <option name="myItemId" value="simian" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
+              <option name="myItemId" value="settings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,7 +428,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimianSettingsPanel" />
+              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="duplication-plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inspectionDescriptions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,10 +489,6 @@
               <option name="myItemId" value="duplication-plugin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -318,7 +496,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -328,7 +506,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -339,9 +516,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
-    </key>
   </component>
   <component name="RunManager" selected="Plugin.Unnamed">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -349,7 +523,6 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
@@ -362,7 +535,6 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
@@ -379,7 +551,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
@@ -411,7 +582,6 @@
       <properties />
       <listeners />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
@@ -430,7 +600,6 @@
       <module name="" />
       <envs />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
@@ -455,7 +624,6 @@
       <envs />
       <patterns />
       <method>
-        <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
@@ -471,7 +639,9 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <list size="1">
@@ -530,30 +700,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="22" width="1357" height="878" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32628798" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12779553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32628798" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39630118" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4600639" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.49772382" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.4969651" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22654462" sideWeight="0.673712" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67147434" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297953" sideWeight="0.8722045" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34101382" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.67147434" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3979461" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2891374" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -610,110 +780,100 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/simian-2.3.33.jar!/com/harukizaemon/simian/Options.class">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/InspectionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="503" selection-end="503" vertical-scroll-proportion="-6.8" />
+        <state line="53" column="45" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/InspectionManagerEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" />
+        <state line="143" column="30" selection-start="6830" selection-end="6830" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/java/java-tests/testSrc/com/intellij/codeInsight/daemon/quickFix/RemoveRedundantUncheckedSuppressionTest.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/DescriptorComposer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="10" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.3244898" />
+        <state line="74" column="17" selection-start="2545" selection-end="2545" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/java/java-impl/src/com/intellij/codeInspection/RedundantSuppressInspection.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/GlobalInspectionToolWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="23" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.25157234" />
+        <state line="89" column="22" selection-start="3479" selection-end="3479" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/plugins/properties/src/META-INF/plugin.xml">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/GlobalInspectionTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="61" selection-start="4806" selection-end="5122" vertical-scroll-proportion="0.33333334" />
+        <state line="177" column="0" selection-start="8528" selection-end="8528" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianBundle.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInspection/unusedParameters/UnusedParametersInspection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" />
+        <state line="175" column="11" selection-start="8051" selection-end="8051" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/platform/lang-api/src/com/intellij/codeInspection/GlobalInspectionTool.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/Browser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.0" />
+        <state line="306" column="0" selection-start="11330" selection-end="11330" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/ProblemDescriptorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="6520" selection-end="6520" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inspectionDescriptions/SimianGlobalInspectionTool.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.25">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/platform/lang-api/src/com/intellij/codeInspection/InspectionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/ui/SimianSettingsPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="68" selection-start="3490" selection-end="3490" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/platform/core-api/src/com/intellij/psi/PsiManager.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="26" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
+        <state line="7" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettingsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="0" selection-start="3887" selection-end="3887" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1174#1187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/platform/lang-api/src/com/intellij/codeInspection/InspectionEP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/platform/lang-impl/src/com/intellij/codeInspection/ex/InspectionToolWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="56" selection-start="3274" selection-end="3293" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sdk/ideaIC-118.149/plugins/java-i18n/src/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="73" selection-start="3641" selection-end="3668" vertical-scroll-proportion="0.6191489">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="43" selection-start="900" selection-end="900" vertical-scroll-proportion="0.0">
+        <state line="118" column="97" selection-start="4020" selection-end="4020" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.19386332">
-          <folding>
-            <element signature="e#2375#2394#0" expanded="true" />
-          </folding>
+        <state line="86" column="38" selection-start="3837" selection-end="3837" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="80" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.7796258">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +906,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>google-gson-2</last-edited>
+          <last-edited>groovy-1.7.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
