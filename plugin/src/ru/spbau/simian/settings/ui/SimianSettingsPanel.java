@@ -19,6 +19,8 @@ public class SimianSettingsPanel {
     private JLabel myLabel;
     private JPanel myMainPanel;
 
+    // todo: add simian's properties.
+
     public SimianSettingsPanel() {
         myLabel.setLabelFor(myPathField.getButton());
 

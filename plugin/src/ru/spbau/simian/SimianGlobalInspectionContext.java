@@ -46,6 +46,7 @@ public class SimianGlobalInspectionContext implements GlobalInspectionContextExt
 
         AuditListener listener = new MyAuditListener(myResults, indicator);
 
+        // todo: init properly
         Options options = new Options();
         options.setThreshold(6);
         options.setOption(Option.IGNORE_STRINGS, true);
@@ -76,6 +77,7 @@ public class SimianGlobalInspectionContext implements GlobalInspectionContextExt
 
     @Override
     public void cleanup() {
+        myResults.clear();
     }
 
     private class MyAuditListener implements AuditListener {
