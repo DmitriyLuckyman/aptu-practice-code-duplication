@@ -73,7 +73,7 @@
       <file leaf-file-name="MethodDuplicatesHandler.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="217" column="50" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.38435373">
+            <state line="223" column="76" selection-start="10379" selection-end="10379" vertical-scroll-proportion="0.53741497">
               <folding />
             </state>
           </provider>
@@ -695,7 +695,7 @@
     </entry>
     <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="50" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.38435373">
+        <state line="223" column="76" selection-start="10379" selection-end="10379" vertical-scroll-proportion="0.53741497">
           <folding />
         </state>
       </provider>
