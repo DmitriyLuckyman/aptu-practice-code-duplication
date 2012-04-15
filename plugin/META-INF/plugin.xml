@@ -6,18 +6,19 @@
     <idea-version since-build="117"/>
 
     <extensions defaultExtensionNs="com.intellij">
-        <codeInspection.InspectionExtension id="simianInspection"
-                                            implementation="ru.spbau.simian.SimianInspectionExtensionsFactory"/>
+        <codeInspection.InspectionExtension id="duplicationGlobalInspection"
+                                            implementation="ru.spbau.duplication.DuplicationInspectionExtensionsFactory"/>
 
-        <projectService serviceInterface="ru.spbau.simian.settings.SimianSettings"
-                        serviceImplementation="ru.spbau.simian.settings.SimianSettings"/>
-        <projectConfigurable instance="ru.spbau.simian.settings.SimianSettingsManager"/>
+        <projectService serviceInterface="ru.spbau.duplication.settings.DuplicationSettings"
+                        serviceImplementation="ru.spbau.duplication.settings.DuplicationSettings"/>
+        <projectConfigurable instance="ru.spbau.duplication.settings.DuplicationSettingsManager"/>
 
-        <globalInspection shortName="SimianGlobalInspectionTool"
-                          bundle="ru.spbau.simian.Simian"
+        <globalInspection shortName="DuplicationGlobalInspectionTool"
+                          bundle="ru.spbau.duplication.Duplication"
                           key="simian.inspection.duplicate.display.name"
-                          groupName="Simian"
-                          enabledByDefault="true" level="WARNING"
-                          implementationClass="ru.spbau.simian.SimianGlobalInspectionTool"/>
+                          groupName="Duplications"
+                          enabledByDefault="true"
+                          level="WARNING"
+                          implementationClass="ru.spbau.duplication.DuplicationGlobalInspectionTool"/>
     </extensions>
 </idea-plugin>
