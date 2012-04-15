@@ -48,17 +48,8 @@ public class DuplicationGlobalInspectionTool extends GlobalInspectionTool {
                         method.getContainingFile().getVirtualFile().getUrl(),
                         method.getTextOffset()),
                 ProblemHighlightType.GENERIC_ERROR_OR_WARNING,
-                false
+                false,
+                new DuplicateQuickFix(match, method)
         );
     }
-
-    @Override
-    public void compose(StringBuffer buf, RefEntity refEntity, HTMLComposer composer) {
-        super.compose(buf, refEntity, composer);
-    }
-
-    /**
-     * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font style="font-family:verdana; font-weight:bold; color:#005555; size = 3">Name:
-     * </font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Main.java</b><b>Main.java</b><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font style="font-family:verdana; font-weight:bold; color:#005555; size = 3">Location:</font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font style="font-family:verdana;">package&nbsp;<code></code>file&nbsp;<code><a HREF="file:/home/maria/IdeaProjects/newtest/src/Main.java#0">Main.java</a></code></font><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font style="font-family:verdana; font-weight:bold; color:#005555; size = 3">Problem synopsis:</font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duplicates method: Main2:test4 (at line <a HREF="file:/home/maria/IdeaProjects/newtest/src/Main.java#233">11</a>)<br><br>
-     */
 }

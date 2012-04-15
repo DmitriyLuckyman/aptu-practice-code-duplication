@@ -1,6 +1,6 @@
 <idea-plugin version="2">
-    <name>Simian</name>
-    <description>Inspect duplicates</description>
+    <name>Global Duplications searcher</name>
+    <description>Inspect Java code duplicates</description>
     <version>1.0</version>
 
     <idea-version since-build="117"/>
@@ -8,10 +8,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <codeInspection.InspectionExtension id="duplicationGlobalInspection"
                                             implementation="ru.spbau.duplication.DuplicationInspectionExtensionsFactory"/>
-
-        <projectService serviceInterface="ru.spbau.duplication.settings.DuplicationSettings"
-                        serviceImplementation="ru.spbau.duplication.settings.DuplicationSettings"/>
-        <projectConfigurable instance="ru.spbau.duplication.settings.DuplicationSettingsManager"/>
 
         <globalInspection shortName="DuplicationGlobalInspectionTool"
                           bundle="ru.spbau.duplication.Duplication"

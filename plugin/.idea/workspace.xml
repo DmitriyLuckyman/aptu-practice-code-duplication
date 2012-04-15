@@ -58,22 +58,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duplication.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/Duplication.properties">
+      <file leaf-file-name="DuplicationGlobalInspectionContext.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="110" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="97" column="72" selection-start="4646" selection-end="4646" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#1457#1481#0" expanded="true" />
+                <element signature="e#2244#2255#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuplicationGlobalInspectionTool.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionTool.java">
+      <file leaf-file-name="MethodDuplicatesHandler.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="46" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.7755102">
-              <folding>
-                <element signature="e#2072#2102#0" expanded="true" />
-              </folding>
+            <state line="217" column="50" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.38435373">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/ui/SimianSettingsPanel.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/settings/SimianSettings.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianGlobalInspectionContext.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/SimianInspectionExtensionsFactory.java" />
@@ -99,11 +99,12 @@
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/DuplicationGlobalInspectionTool.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/Duplication.properties" />
         <option value="$PROJECT_DIR$/src/ru/spbau/simian/DuplicationGlobalInspectionContext.java" />
-        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationBundle.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/duplication/Duplication.properties" />
+        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionTool.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java" />
+        <option value="$PROJECT_DIR$/src/ru/spbau/duplication/DuplicateQuickFix.java" />
       </list>
     </option>
   </component>
@@ -244,54 +245,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="duplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="duplication-plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="duplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="settings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="duplication-plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="duplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="settings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -554,7 +507,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46964857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46964857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.49772382" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.4969651" order="7" side_tool="false" content_ui="tabs" />
@@ -628,126 +581,122 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-psi-impl/src/com/intellij/psi/impl/source/PsiJavaFileBaseImpl.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInsight/completion/JavaClassNameCompletionContributor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="402" column="39" selection-start="16103" selection-end="16103" vertical-scroll-proportion="0.0">
+        <state line="126" column="102" selection-start="6173" selection-end="6173" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/core-api/src/com/intellij/psi/util/PsiTreeUtil.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInsight/completion/JavaClassNameInsertHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="717" column="24" selection-start="26078" selection-end="26078" vertical-scroll-proportion="0.88188976">
+        <state line="92" column="34" selection-start="3925" selection-end="3925" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/psi/PsiRecursiveElementVisitor.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInsight/lookup/PsiTypeLookupItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+        <state line="239" column="48" selection-start="9028" selection-end="9028" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/core-api/src/com/intellij/psi/PsiElementVisitor.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/codeInsight/completion/JavaCompletionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="838" selection-end="864" vertical-scroll-proportion="0.0">
+        <state line="663" column="20" selection-start="29069" selection-end="29069" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/application/options/editor/JavaAutoImportOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="30" selection-start="3096" selection-end="3096" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-psi-impl/src/com/intellij/psi/impl/source/JavaDummyHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="2501" selection-end="2501" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/psi/impl/source/codeStyle/JavaCodeStyleManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="46" selection-start="4496" selection-end="4496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-psi-api/src/com/intellij/psi/codeStyle/JavaCodeStyleManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ApplicationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="900" column="0" selection-start="29856" selection-end="29856" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/platform-impl/src/com/intellij/openapi/command/impl/CommandProcessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="0" selection-start="4622" selection-end="4622" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/Match.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="19" selection-start="1659" selection-end="1659" vertical-scroll-proportion="0.0">
+        <state line="221" column="0" selection-start="8658" selection-end="8658" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/GlobalSimpleInspectionTool.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicateQuickFix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="20" selection-start="2050" selection-end="2050" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-api/src/com/intellij/codeInspection/GlobalInspectionTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="14" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/Browser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="306" column="0" selection-start="11330" selection-end="11330" vertical-scroll-proportion="0.16021127">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/DuplicatesFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="21" selection-start="4052" selection-end="4052" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="3" selection-start="12664" selection-end="12664" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/GlobalInspectionToolWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="0" selection-start="3457" selection-end="3457" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/settings/DuplicationSettingsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationInspectionExtensionsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="9" selection-start="4856" selection-end="4856" vertical-scroll-proportion="0.0">
+        <state line="49" column="0" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#1457#1481#0" expanded="true" />
-            <element signature="e#2244#2255#0" expanded="true" />
-            <element signature="e#2540#3542#0" expanded="true" />
-            <element signature="e#2965#2987#0" expanded="true" />
-            <element signature="e#3527#3528#0" expanded="true" />
-            <element signature="e#4013#4844#0" expanded="true" />
-            <element signature="e#4438#4466#0" expanded="true" />
-            <element signature="e#4829#4830#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#887#938#0" expanded="true" />
+            <element signature="e#1025#1076#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/Duplication.properties">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/psi/impl/source/codeStyle/ImportHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="110" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
+        <state line="351" column="0" selection-start="15071" selection-end="15071" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="46" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.7755102">
+        <state line="35" column="25" selection-start="1696" selection-end="1696" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="72" selection-start="4646" selection-end="4646" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#2072#2102#0" expanded="true" />
+            <element signature="e#1457#1481#0" expanded="true" />
+            <element signature="e#2244#2255#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="50" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.38435373">
+          <folding />
         </state>
       </provider>
     </entry>
