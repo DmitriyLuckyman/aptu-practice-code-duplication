@@ -70,10 +70,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MethodDuplicatesHandler.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
+      <file leaf-file-name="DuplicateQuickFix.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicateQuickFix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="223" column="76" selection-start="10379" selection-end="10379" vertical-scroll-proportion="0.53741497">
+            <state line="53" column="16" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.6394558">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#788#839#0" expanded="true" />
+                <element signature="e#926#977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Match.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/Match.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="314" column="47" selection-start="13764" selection-end="13764" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -507,7 +520,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46964857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46964857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.49772382" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.4969651" order="7" side_tool="false" content_ui="tabs" />
@@ -651,24 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/Match.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="0" selection-start="8658" selection-end="8658" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicateQuickFix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#887#938#0" expanded="true" />
-            <element signature="e#1025#1076#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/psi/impl/source/codeStyle/ImportHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="351" column="0" selection-start="15071" selection-end="15071" vertical-scroll-proportion="0.0">
@@ -683,6 +678,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="76" selection-start="10379" selection-end="10379" vertical-scroll-proportion="-0.05102041">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicationGlobalInspectionContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="72" selection-start="4646" selection-end="4646" vertical-scroll-proportion="0.0">
@@ -693,10 +695,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/MethodDuplicatesHandler.java">
+    <entry file="file://$USER_HOME$/SDK/intellij-community/java/java-impl/src/com/intellij/refactoring/util/duplicates/Match.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="223" column="76" selection-start="10379" selection-end="10379" vertical-scroll-proportion="0.53741497">
+        <state line="314" column="47" selection-start="13764" selection-end="13764" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/spbau/duplication/DuplicateQuickFix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="16" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.6394558">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#788#839#0" expanded="true" />
+            <element signature="e#926#977#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
