@@ -17,10 +17,12 @@ import java.util.List;
 public class DuplicateQuickFix implements LocalQuickFix {
     private final Match match;
     private final PsiMethod method;
+    private final boolean appendClassName;
 
-    public DuplicateQuickFix(Match match, PsiMethod method) {
+    public DuplicateQuickFix(Match match, PsiMethod method, boolean appendClassName) {
         this.match = match;
         this.method = method;
+        this.appendClassName = appendClassName;
     }
 
     @NotNull
@@ -41,7 +43,10 @@ public class DuplicateQuickFix implements LocalQuickFix {
         final PsiClass containingClass = method.getContainingClass();
         assert containingClass != null;
         final StringBuilder callText = new StringBuilder();
-        callText.append(containingClass.getName()).append(".").append(method.getName()).append("(");
+        if (appendClassName) {
+            callText.append(containingClass.getName()).append(".");
+        }
+        callText.append(method.getName()).append("(");
         int i = 0;
         for (PsiVariable parameter : method.getParameterList().getParameters()) {
             if (i > 0) {
